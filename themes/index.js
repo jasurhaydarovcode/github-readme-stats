@@ -462,6 +462,12 @@ export const themes = {
     icon_color: "ffffff",
     bg_color: "35,4158d0,c850c0,ffcc70",
   },
+  khaydarov_gradient: {
+    title_color: "ffffff",
+    text_color: "ffffff",
+    icon_color: "ffffff",
+    bg_color: "35,4158d0,c850c0,ff0000",
+  },
 };
 
 export default themes;
